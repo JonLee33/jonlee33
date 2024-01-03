@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Jonathan and I'm a software developer with a background in geographic information systems (GIS), land use planning/development, and local government.
+Hi, my name is Jonathan and I'm a new software developer with a background in geographic information systems (GIS), land use planning/development, and local government.
